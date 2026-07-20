@@ -1,87 +1,214 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,1A1A1A&height=220&section=header&text=SHARON%20FIORA%20J&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,1A1A1A&height=260&section=header&text=SHARON%20FIORA%20J&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20Robotics%20%7C%20Computer%20Vision&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=FF3131&center=true&vCenter=true&width=900&lines=Electronics+&+Communication+Engineering+Student;Embedded+Systems+&+Firmware+Developer;Robotics+|+Computer+Vision+|+Sensor+Fusion;Building+Intelligent+Autonomous+Systems;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF3131&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%26+Firmware+Developer;Robotics+%7C+Computer+Vision+%7C+Sensor+Fusion;Building+Intelligent+Autonomous+Systems+%F0%9F%A4%96"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharonfiora/)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharonfioraj@gmail.com)
+<br/>
+
+<a href="https://www.linkedin.com/in/sharonfiora/">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sharonfioraj@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="55"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shrn-25&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-# 🤖 About Me
-I am an ECE student at **Thiagarajar College of Engineering** with a deep focus on autonomous robotics, computer vision, and embedded systems development. I enjoy bridging the gap between hardware constraints and software intelligence.
+<br/>
 
-- 🎓 **Education:** B.E. ECE, TCE Madurai (2023–2027) | CGPA: 8.85
-- 🚀 **Core Interests:** Embedded Firmware (FreeRTOS/STM32), Sensor Fusion, and Industrial Automation.
+## 👩‍🚀 About Me
 
----
+I'm an **ECE undergraduate at Thiagarajar College of Engineering**, obsessed with the moment raw sensor data turns into a machine that can think, move, and decide on its own. My work sits at the intersection of **firmware, robotics, and applied AI** — I design the systems, write the code that runs *on* the metal, and test it until it doesn't fail.
 
-# ⚙️ Technical Skills
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi,git,vscode,linux"/>
-</p>
-<p align="center">
-<b>Firmware:</b> STM32 Cube IDE, Embedded C, RTOS (FreeRTOS) <br>
-<b>Robotics:</b> ROS 2, Jetson Nano, Robot Localization, Sensor Fusion
-</p>
+```
+Sharon.currentFocus() 
+  → { firmware: "STM32 + FreeRTOS", robotics: "ROS 2 + sensor fusion", ai: "computer vision for real-world autonomy" }
+```
 
----
+🎓 **B.E. Electronics & Communication Engineering** — Thiagarajar College of Engineering, Madurai · 2023–2027 · **CGPA 8.85**
+🚀 **Core Interests** — Embedded Firmware · Sensor Fusion · Autonomous Navigation · Industrial Automation
 
-# 🚀 Mission Logs: Experimental & Field Projects
+<br/>
 
-*   **📍 RTOS-Based Robot Localization Protocol** | *STM32H5, FreeRTOS, CAN, Embedded C*
-    > Architecting a deterministic, multi-threaded localization engine. I am implementing **FreeRTOS** task-scheduling to fuse high-frequency IMU and wheel-encoder data, ensuring low-latency state estimation published over **CAN/UART** pipelines.
-*   **🤖 Image-Guided Corridor Navigation** | *Jetson Nano, ROS 2, Computer Vision*
-    > Deploying an autonomous vision-based agent. This project utilizes edge-processing to interpret corridor geometry in real-time, executing path-following algorithms via **ROS 2** to maintain stable, obstacle-aware navigation.
-*   **🎮 Haptic Feedback Synthesis Interface** | *Sensor Fusion, Multi-Channel PWM, Actuators*
-    > Engineering a haptic-tactile response layer. By modeling complex sensor inputs and controlling multi-channel vibration arrays, I am building an interface that translates digital environmental data into high-fidelity physical feedback.
-*   **⚠️ Pre-Impact Fall Detection (Research-Grade)** | *Python, Matlab, Heatmap Classifiers*
-    > Authored a technical research paper on predictive safety. By designing a **2D motion descriptor pipeline** and applying **heatmap-threshold classifiers**, I successfully developed a model to predict falls before impact occurs.
-*   **⚡ MARL-Based EV Coordination** | *Raspberry Pi, MQTT, Multi-Agent Reinforcement Learning*
-    > Modeling town-level infrastructure as a multi-agent system. I developed a hardware prototype where autonomous EV agents coordinate charging schedules in real-time using **MQTT** communication protocols to optimize grid efficiency.
-
----
-
-# 🛡️ Command & Operations: Leadership and Impact
-
-*   **📡 "Satellite War" Prototype Competition (March 2026) | Event Lead**
-    > Spearheaded a high-stakes intercollegiate hardware challenge. I defined the mission parameters, established strict **LoRa-based communication** constraints, and directed the live-testing evaluation criteria for custom-built satellite prototypes.
-*   **🌐 IEEE Broadcast Technology Society (TCE Branch) | Chairperson**
-    > Providing strategic oversight for technical initiatives and project lifecycles. I coordinate multi-disciplinary teams to drive hardware-centric innovation and ensure the timely delivery of engineering outcomes.
-*   **⚙️ "ZENYTH" National Symposium | Lead Organizer**
-    > Orchestrated the operational framework for a national-level engineering summit. I structured the technical coding tracks, verified hardware kit compatibility for participants, and managed the registration and submission pipelines.
-*   **🎖️ Innovation Distinctions**
-    > Recognized as a top-tier competitor in national ideation and design challenges, including **IITMIC Build to Innovate (2024)**, **Larsen and Toubro Ideation (2025)**, and **Nimirnthu Nil (2026)**.
-
----
-
-# 📊 GitHub Insights
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrn-25&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrn-25&layout=compact&theme=tokyonight"/>
-</p>
+## ⚙️ Technical Arsenal
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrn-25&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi,git,vscode,linux"/>
 </p>
-
----
-
-# 🎯 Engineering Roadmap 2026
-- [x] RTOS FUNDAMENTALS
-- [ ] RT Robot localisation 
-- [ ] ROS 2 Guided Navigation Stack Implementation
-- [ ] Industrial Haptic Feedback Systems
-
----
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Shrn-25&color=red)
+| Domain | Tools & Technologies |
+|---|---|
+| 🔧 **Firmware & RTOS** | STM32CubeIDE, Embedded C, FreeRTOS, CAN, UART |
+| 🤖 **Robotics** | ROS 2, Jetson Nano, Robot Localization, Sensor Fusion |
+| 🧠 **AI / Vision** | Computer Vision, Multi-Agent RL, Classifier Modeling |
+| 🛠️ **Platforms** | Raspberry Pi, Arduino, MQTT, Linux |
+
+</div>
+
+<br/>
+
+## 🚀 Mission Logs — Flagship Builds
+
+> Every project here was built to solve a real constraint: latency, power, communication range, or human safety.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 RTOS-Based Robot Localization
+**`STM32H5` `FreeRTOS` `CAN` `Embedded C`**
+
+Architected a deterministic, multi-threaded localization engine. Implemented FreeRTOS task scheduling to fuse high-frequency IMU and wheel-encoder data — publishing low-latency state estimates over CAN/UART.
+
+`Focus: real-time systems, sensor timing, hardware determinism`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Image-Guided Corridor Navigation
+**`Jetson Nano` `ROS 2` `Computer Vision`**
+
+Built an autonomous vision-based agent that interprets corridor geometry on-edge in real time and executes obstacle-aware path-following through ROS 2.
+
+`Focus: edge inference, autonomous navigation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Haptic Feedback Synthesis Interface
+**`Sensor Fusion` `Multi-Channel PWM` `Actuators`**
+
+Engineered a haptic-tactile response layer — modeling sensor inputs and driving multi-channel vibration arrays to translate digital environment data into physical feedback.
+
+`Focus: human-machine interfaces, actuator control`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚠️ Pre-Impact Fall Detection *(Research)*
+**`Python` `MATLAB` `Heatmap Classifiers`**
+
+Authored a technical research paper on predictive safety — designed a 2D motion descriptor pipeline with heatmap-threshold classifiers that predicts falls *before* impact.
+
+`Focus: predictive modeling, applied safety research`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ MARL-Based EV Coordination
+**`Raspberry Pi` `MQTT` `Multi-Agent RL`**
+
+Modeled town-level EV infrastructure as a multi-agent system — a working hardware prototype where autonomous agents coordinate charging schedules over MQTT to optimize grid efficiency.
+
+`Focus: distributed systems, multi-agent coordination`
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**More builds in progress →**
+*RT robot localization · ROS 2 nav stack · industrial haptics*
+
+[![Roadmap](https://img.shields.io/badge/View_2026_Roadmap-8B0000?style=flat-square)](#-engineering-roadmap-2026)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛡️ Command & Operations — Leadership That Shipped Results
+
+<table>
+<tr>
+<td width="8%" align="center"><h2>📡</h2></td>
+<td width="92%">
+
+**"Satellite War" Prototype Competition** · *Event Lead* · March 2026
+Spearheaded a high-stakes intercollegiate hardware challenge — defined mission parameters, set strict LoRa-based communication constraints, and directed live-testing evaluation for custom satellite prototypes.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h2>🌐</h2></td>
+<td>
+
+**IEEE Broadcast Technology Society, TCE Branch** · *Chairperson*
+Strategic oversight of technical initiatives and project lifecycles — coordinating multi-disciplinary teams to drive hardware-centric innovation and deliver engineering outcomes on time.
+
+</td>
+</tr>
+<tr>
+<td align="center"><h2>⚙️</h2></td>
+<td>
+
+**"ZENYTH" National Symposium** · *Lead Organizer*
+Ran the operational framework for a national-level engineering summit — structured technical coding tracks, verified hardware kit compatibility, and managed registration/submission pipelines end to end.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎖️ Innovation Distinctions
+
+<div align="center">
+
+| 🏆 | Recognition |
+|:---:|:---|
+| 🥇 | **IITMIC Build to Innovate** — 2024 |
+| 🥈 | **Larsen & Toubro Ideation Challenge** — 2025 |
+| 🥉 | **Nimirnthu Nil** — 2026 |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrn-25&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrn-25&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrn-25&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+## 🎯 Engineering Roadmap 2026
+
+- [x] RTOS Fundamentals
+- [ ] Real-Time Robot Localization — full deployment
+- [ ] ROS 2 Guided Navigation Stack — implementation
+- [ ] Industrial Haptic Feedback Systems
+
+<br/>
+
+<div align="center">
 
 *"Turning complex sensor data into autonomous intelligence."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A,8B0000&height=140&section=footer"/>
+<a href="https://www.linkedin.com/in/sharonfiora/">
+  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20TOGETHER-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A,8B0000&height=150&section=footer"/>
 
 </div>
