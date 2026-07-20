@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/sharonfiora/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="55"/>
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="65"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sharonfioraj@gmail.com">
@@ -66,7 +66,7 @@ Sharon.currentFocus()
 ### 📡 RTOS-Based Robot Localization
 **`STM32H5` `FreeRTOS` `CAN` `Embedded C`**
 
-Architected a deterministic, multi-threaded localization engine. Implemented FreeRTOS task scheduling to fuse high-frequency IMU and wheel-encoder data — publishing low-latency state estimates over CAN/UART.
+Architecting a deterministic, multi-threaded localization engine. Implementing FreeRTOS task scheduling to fuse high-frequency IMU and wheel-encoder data — publishing low-latency state estimates over CAN/UART.
 
 `Focus: real-time systems, sensor timing, hardware determinism`
 
@@ -76,7 +76,7 @@ Architected a deterministic, multi-threaded localization engine. Implemented Fre
 ### 🤖 Image-Guided Corridor Navigation
 **`Jetson Nano` `ROS 2` `Computer Vision`**
 
-Built an autonomous vision-based agent that interprets corridor geometry on-edge in real time and executes obstacle-aware path-following through ROS 2.
+Building an autonomous vision-based agent that interprets corridor geometry on-edge in real time and executes obstacle-aware path-following through ROS 2.
 
 `Focus: edge inference, autonomous navigation`
 
