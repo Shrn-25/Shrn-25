@@ -206,7 +206,7 @@ Ran the operational framework for a national-level engineering summit — struct
 *"Turning complex sensor data into autonomous intelligence."*
 
 <a href="https://www.linkedin.com/in/sharonfiora/">
-  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20TOGETHER-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING%20TOGETHER-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" height="65"/>
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A,8B0000&height=150&section=footer"/>
