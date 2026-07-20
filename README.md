@@ -11,7 +11,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sharonfioraj@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="55"/>
+  <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="65"/>
 </a>
 
 <br/><br/>
