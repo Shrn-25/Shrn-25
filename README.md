@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/sharonfiora/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="155"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="155"/>
 </a>
 &nbsp;&nbsp;
 
