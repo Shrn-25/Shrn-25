@@ -10,11 +10,10 @@
 </div>
 
 # 🤖 About Me
-I am an Electronics and Communication Engineering student at Thiagarajar College of Engineering with a deep focus on autonomous robotics, computer vision, and embedded systems development. I enjoy bridging the gap between hardware constraints and software intelligence.
+I am an ECE student at **Thiagarajar College of Engineering** with a deep focus on autonomous robotics, computer vision, and embedded systems development. I enjoy bridging the gap between hardware constraints and software intelligence.
 
-- 🎓 **Education:** B.E. ECE, Thiagarajar College of Engineering, Madurai | CGPA: 8.85
-- 🚀 **Core Expertise:** Embedded firmware, ROS 2, and sensor fusion algorithms.
-- 💡 **Interests:** Developing real-time localization, intelligent navigation, and haptic feedback systems.
+- 🎓 **Education:** B.E. ECE, TCE Madurai (2023–2027) | CGPA: 8.85
+- 🚀 **Core Interests:** Embedded Firmware (FreeRTOS/STM32), Sensor Fusion, and Industrial Automation.
 
 ---
 
@@ -23,40 +22,37 @@ I am an Electronics and Communication Engineering student at Thiagarajar College
 <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi,git,vscode,linux"/>
 </p>
 <p align="center">
-<b>Firmware:</b> STM32H5, ESP32-S3, Jetson Nano, Embedded C, RTOS (FreeRTOS) <br>
-<b>Robotics:</b> ROS 2, Robot Localization, Sensor Fusion, Computer Vision
+<b>Firmware:</b> STM32 Cube IDE, Embedded C, RTOS (FreeRTOS) <br>
+<b>Robotics:</b> ROS 2, Jetson Nano, Robot Localization, Sensor Fusion
 </p>
 
 ---
 
-# 🚀 Mission Logs (Projects)
+# 🚀 Mission Logs: Experimental & Field Projects
 
-**📍 RTOS-Based Robot Localization** | *STM32H5, FreeRTOS, CAN, Embedded C*
-> Architecting a multi-threaded system on **FreeRTOS** to handle high-frequency sensor fusion. I am developing this real-time localization system to process IMU and wheel encoder data, improving accuracy through dead reckoning and filtering before publishing data over CAN and UART.
-
-**🤖 Image-Guided Corridor Navigation Bot** | *Jetson Nano, ROS 2, Computer Vision*
-> Designing an autonomous agent capable of "visual path-finding." This project focuses on interpreting corridor geometry in real-time using **Computer Vision** and **ROS 2** to enable intelligent steering and stable path trajectory.
-
-**🎮 Haptic Feedback Synthesis Device** | *Microcontrollers, Sensor Fusion, Vibration Actuators*
-> Bridging the physical-digital divide by translating complex sensor data into nuanced tactile sensations. I am currently configuring **multi-channel vibration motor control circuits** to enhance user interaction with embedded interfaces.
-
-**⚠️ Pre-Impact Fall Detection (Research-Grade)** | *Python, Matlab, Statistical Modeling*
-> Authored technical research on predictive safety systems. By designing a **2D motion descriptor pipeline** combined with **heatmap-threshold classifiers**, I achieved improved detection accuracy for pre-impact scenarios—turning sensor signals into life-saving data.
-
----
-
-# 🛡️ Leadership & Event Command
-*   **Engineering Symposium Chairperson:** Orchestrated "ZENYTH," managing the technical integrity of coding challenges and ensuring seamless event operations for the TCE IEEE Student Branch.
-*   **Satellite Warfare Lead:** Architected and directed the "Satellite War" prototype competition (March 2026), where I defined the hardware constraints, LoRa-based communication protocols, and evaluation criteria for intercollegiate student prototypes.
-*   **IEEE Leadership:** As Chair of the IEEE Broadcast Technology Society (TCE Branch), I serve as the strategic lead, driving project outcomes and coordinating team-wide technical initiatives.
+*   **📍 RTOS-Based Robot Localization Protocol** | *STM32H5, FreeRTOS, CAN, Embedded C*
+    > Architecting a deterministic, multi-threaded localization engine. I am implementing **FreeRTOS** task-scheduling to fuse high-frequency IMU and wheel-encoder data, ensuring low-latency state estimation published over **CAN/UART** pipelines.
+*   **🤖 Image-Guided Corridor Navigation** | *Jetson Nano, ROS 2, Computer Vision*
+    > Deploying an autonomous vision-based agent. This project utilizes edge-processing to interpret corridor geometry in real-time, executing path-following algorithms via **ROS 2** to maintain stable, obstacle-aware navigation.
+*   **🎮 Haptic Feedback Synthesis Interface** | *Sensor Fusion, Multi-Channel PWM, Actuators*
+    > Engineering a haptic-tactile response layer. By modeling complex sensor inputs and controlling multi-channel vibration arrays, I am building an interface that translates digital environmental data into high-fidelity physical feedback.
+*   **⚠️ Pre-Impact Fall Detection (Research-Grade)** | *Python, Matlab, Heatmap Classifiers*
+    > Authored a technical research paper on predictive safety. By designing a **2D motion descriptor pipeline** and applying **heatmap-threshold classifiers**, I successfully developed a model to predict falls before impact occurs.
+*   **⚡ MARL-Based EV Coordination** | *Raspberry Pi, MQTT, Multi-Agent Reinforcement Learning*
+    > Modeling town-level infrastructure as a multi-agent system. I developed a hardware prototype where autonomous EV agents coordinate charging schedules in real-time using **MQTT** communication protocols to optimize grid efficiency.
 
 ---
 
-# 🎯 2026 Engineering Roadmap
-*   **Phase 1 (Completed):** Finalized GATE ECE preparation and real-time fall detection research.
-*   **Phase 2 (In Progress):** Mastering **RTOS-based robot localization** to maximize multi-tasking efficiency on ARM-based platforms.
-*   **Phase 3 (Next):** Transitioning to advanced **Image-Guided Corridor Bot** integration using edge-processing platforms.
-*   **Phase 4 (Future):** Implementing high-speed, multi-axis **Haptic Feedback** control to complete my sensor-human interface portfolio.
+# 🛡️ Command & Operations: Leadership and Impact
+
+*   **📡 "Satellite War" Prototype Competition (March 2026) | Event Lead**
+    > Spearheaded a high-stakes intercollegiate hardware challenge. I defined the mission parameters, established strict **LoRa-based communication** constraints, and directed the live-testing evaluation criteria for custom-built satellite prototypes.
+*   **🌐 IEEE Broadcast Technology Society (TCE Branch) | Chairperson**
+    > Providing strategic oversight for technical initiatives and project lifecycles. I coordinate multi-disciplinary teams to drive hardware-centric innovation and ensure the timely delivery of engineering outcomes.
+*   **⚙️ "ZENYTH" National Symposium | Lead Organizer**
+    > Orchestrated the operational framework for a national-level engineering summit. I structured the technical coding tracks, verified hardware kit compatibility for participants, and managed the registration and submission pipelines.
+*   **🎖️ Innovation Distinctions**
+    > Recognized as a top-tier competitor in national ideation and design challenges, including **IITMIC Build to Innovate (2024)**, **Larsen and Toubro Ideation (2025)**, and **Nimirnthu Nil (2026)**.
 
 ---
 
@@ -66,14 +62,17 @@ I am an Electronics and Communication Engineering student at Thiagarajar College
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrn-25&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shrn-25&theme=radical&no-frame=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrn-25&theme=tokyonight"/>
 </p>
 
-- **Finalist:** IITMIC Build to Innovate 2024, Larsen and Toubro Ideation 2025, Nimirnthu Nil 2026.
+---
+
+# 🎯 Engineering Roadmap 2026
+- [x] RTOS FUNDAMENTALS
+- [ ] RT Robot localisation 
+- [ ] ROS 2 Guided Navigation Stack Implementation
+- [ ] Industrial Haptic Feedback Systems
 
 ---
 
