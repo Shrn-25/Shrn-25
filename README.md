@@ -53,6 +53,19 @@ Sharon.currentFocus()
 </div>
 
 <br/>
+## 🎖️ Innovation Distinctions
+
+<div align="center">
+
+| 🏆 | Recognition |
+|:---:|:---|
+| 6th | **IITMIC Build to Innovate** — 2024 |
+| 5th | **Larsen & Toubro Ideation Challenge** — 2025 |
+| Ongoing| **Nimirnthu Nil** — 2026 |
+
+</div>
+
+<br/>
 
 ## 🚀 Mission Logs — Flagship Builds
 
@@ -165,19 +178,7 @@ Ran the operational framework for a national-level engineering summit — struct
 
 <br/>
 
-## 🎖️ Innovation Distinctions
 
-<div align="center">
-
-| 🏆 | Recognition |
-|:---:|:---|
-| 🥇 | **IITMIC Build to Innovate** — 2024 |
-| 🥈 | **Larsen & Toubro Ideation Challenge** — 2025 |
-| 🥉 | **Nimirnthu Nil** — 2026 |
-
-</div>
-
-<br/>
 
 
 
